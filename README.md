@@ -1,4 +1,4 @@
-#Frontend Mentor Project
+# Frontend Mentor Project
 This repository contains solutions for the second Frontend Mentor challenge implemented using HTML and CSS and JS.
 
 ## Project :Coding bootcamp testimonials slider
@@ -7,4 +7,4 @@ Challenge: [3 Coding bootcamp testimonials slider](https://www.frontendmentor.io
 
 Solution: [View Solution](https://github.com/Eve-SatOrU/Challenge1/tree/main/coding-bootcamp-testimonials-slider)
 
-1. Live Demo: [Live Demo](https:)
+Live Demo: [Live Demo](https:)
