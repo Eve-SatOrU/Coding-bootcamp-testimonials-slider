@@ -1,7 +1,6 @@
 const p=document.querySelector("p");
 const Name=document.querySelector(".name");
 const title=document.querySelector(".title");
-const swiperContainer=document.querySelector('.swiper-container');
 const nextBtn=document.querySelector(".swiper-btn-next");
 const prevBtn=document.querySelector(".swiper-btn-prev");
 
@@ -21,7 +20,6 @@ function changeTestimonial(){
 nextBtn.addEventListener('click',changeTestimonial);
 prevBtn.addEventListener('click',changeTestimonial);
 
-
 //SWIPER
 const swiper = new Swiper('.swiper', {
     loop: true,
@@ -30,4 +28,4 @@ const swiper = new Swiper('.swiper', {
       nextEl: '.swiper-btn-next',
       prevEl: '.swiper-btn-prev',
     },
-  });
+});
